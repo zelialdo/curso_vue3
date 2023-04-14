@@ -21,7 +21,7 @@ export default {
   },
   mounted() {
     setTimeout(() => {
-      this.nome = "Pedro"
+      this.nome = "Sueldo"
     }, 2000);
 
     this.lifeCycle()
